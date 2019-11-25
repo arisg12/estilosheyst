@@ -3,11 +3,8 @@
   <title>estilos basicos</title>
 </head>
 <style type="text/css">
-p{
-color:green;
-}
-</style>
-
+body {
+    padding-left: 11em;
 <body>
 
 <!-- Menú de navegación del sitio -->
